@@ -9,7 +9,7 @@ var backgroundImg,platform;
 var bird, slingShot;
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg (5).jpg");
+    backgroundImg = loadImage("bg (5).jpg");
 }
 
 function setup(){
